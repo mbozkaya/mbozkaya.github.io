@@ -12,9 +12,9 @@ picture: assets/images/profile.jpg
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
-resume: false
+resume: true
 resume-external: true
-resume-url: https://google.com/?q=my+resume
+resume-url: https://drive.google.com/file/d/1y3a3AtYSwOG4ioctP8PBMinW4HBEX6c-/view?pli=1
 
 url: https://mbozkaya.github.io/
 # your url: https://USERNAME.github.io
@@ -40,9 +40,9 @@ instagram: mb0zkaya
 # pinterest: mypinterest
 linkedin: muhammet-bozkaya
 # youtube: myyoutube
-# spotify: myspotify
+spotify: 	x2nuksse0urs2y5knwj8i613d
 github: mbozkaya
-# gitlab: mygitlab
+gitlab: muhammetbozkaya
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
 # quora: userquora
